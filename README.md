@@ -22,9 +22,9 @@
 ## About the Project
 
 <p align="center" style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
-    <img src="assets/ecoleta1.png">
-    <img src="assets/ecoleta1.png">
-    <img src="assets/ecoleta1.png">
+    <img src="assets/elpis1.PNG">
+    <img src="assets/elpis2.PNG">
+    <img src="assets/elpis3.PNG">
 </p>
 
 ## Build With
