@@ -9,30 +9,28 @@
 <p align="center">
   <a href="#about-the-project">About the Project</a> •
   <a href="#build-with">Build With</a> •
-  <a href="#getting-started">Getting Started</a> •
-    <a href="#installation">Installation</a> •
+  <a href="#installation">Installation</a> •
   <a href="#credits">Credits</a> •
 </p>
 
 
 <h3 align="center">
-    <img width="300px" src="assets/banner.png">
+    <img width="300px" src="src\assets\banner.png">
 </h3>
 
 ## About the Project
 
 <p align="center" style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
-    <img src="assets/elpis1.PNG">
-    <img src="assets/elpis2.PNG">
-    <img src="assets/elpis3.PNG">
+    <img src="src\assets\elpis1.PNG">
+    <img src="src\assets\elpis2.PNG">
+    <img src="src\assets\elpis3.PNG">
 </p>
 
 ## Build With
 
-Front-end:
 - VueJS
 
-## Getting Started
+## Installation
 
 ```bash
 # Clone este repositório
@@ -46,3 +44,9 @@ $ npm run serve
 
 # O servidor iniciará na porta:8080 - acesse http://localhost:8080 
 ```
+
+## Credits
+
+Lilian Giselly - lgps@ic.ufal.br
+
+Github Link: https://github.com/liliangisellyps
