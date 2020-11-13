@@ -1,8 +1,6 @@
-
-
-<h1 align="center">
-  <img src="assets/banner.png" alt="Markdownify" width="200">
-</h1>
+<h3 align="center">
+    <img width="300px" src="src\assets\banner.png">
+</h3>
 
 <h4 align="center">Aplicação web construída para o Desafio PSEL <strong>ELPIS</strong> pela <strong>Enactus - UFAL</strong>.</h4>
 
@@ -12,11 +10,6 @@
   <a href="#installation">Installation</a> •
   <a href="#credits">Credits</a> •
 </p>
-
-
-<h3 align="center">
-    <img width="300px" src="src\assets\banner.png">
-</h3>
 
 ## About the Project
 
