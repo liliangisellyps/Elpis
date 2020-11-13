@@ -17,7 +17,7 @@ export default {
 
   components: {
     FirstPage,
-    TopBar
+    TopBar,
   },
 
   data: () => ({
@@ -28,4 +28,5 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 </style>

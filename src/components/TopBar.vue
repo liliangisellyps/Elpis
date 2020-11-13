@@ -8,11 +8,11 @@
     >
     <v-row>
 
-      <v-col class="categorias d-flex align-center justify-start">
-          <v-btn text>sabores</v-btn>
-          <v-btn text>novidades</v-btn>
-          <v-btn text>kits</v-btn>
-          <v-btn text>encomendas</v-btn>
+      <v-col class="categorias d-flex">
+          <v-btn text color="#8a191d">sabores</v-btn>
+          <v-btn text color="#8a191d">novidades</v-btn>
+          <v-btn text color="#8a191d">kits</v-btn>
+          <v-btn text color="#8a191d">encomendas</v-btn>
       </v-col>
 
       <v-col class="d-flex justify-center">
@@ -25,10 +25,11 @@
 
       <v-col class="d-flex align-center justify-end">
         <v-btn icon>
-          <v-icon color="black">mdi-heart</v-icon>
+        <v-icon color="#8a191d">mdi-heart</v-icon>
         </v-btn>
+
         <v-btn icon>
-          <v-icon color="black">mdi-magnify</v-icon>
+          <v-icon color="#8a191d">mdi-magnify</v-icon>
         </v-btn>
       </v-col>
 
@@ -47,11 +48,10 @@
 
 <style>
   .categorias {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Itim', cursive;
     font-weight: 100;
     font-size: 8px;
     justify-content: start;
     align-items: center;
-    color: #67AFB9;
   }
 </style>

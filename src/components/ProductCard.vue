@@ -47,12 +47,7 @@
     <v-divider class="mx-4"></v-divider>
 
     <v-card-actions>
-      <v-btn
-        color="deep-purple lighten-2"
-        text
-      >
-        Eu quero!
-      </v-btn>
+      <v-btn color="#67afb9" text> Eu quero! </v-btn>
     </v-card-actions>
       </v-col>
     </v-row>
@@ -74,37 +69,37 @@
         },
         {
           name: 'KitKat',
-          description: 'O queridinho da casa: Brownie de Kit Kat!',
+          description: 'O famoso Brownie de chocolate só que ainda melhor! Vem com pedaçoes de KitKat e é de dar água na boca.',
           src: require('../assets/brownie2.jpeg'),
           flex: 4
         },
         {
           name: 'Tradicional com Sorvete',
-          description: 'Hmmm, juntamos o útil ao agradável: gostoso demais e ainda refresca nesse calor!',
+          description: 'Brownie tradicional acompanha bola de sorvete e calda de sua preferência. Vem se refrescar com a gente!',
           src: require('../assets/brownie3.jpeg'),
           flex: 4
         },
         {
           name: 'Doce de leite',
-          description: 'Preciso nem falar nada né?',
+          description: 'Nessa versão do brownie, a cobertura é doce de leite argentino. Não preciso dizer mais nada né?',
           src: require('../assets/brownie4.jpeg'),
           flex: 3
         },
         {
           name: 'Morango',
-          description: 'Clássico e gostoso',
+          description: 'Brownie com cobertura e pedaços de morango porque, afinal de contas, morango nunca é demais.',
           src: require('../assets/brownie5.jpeg'),
           flex: 3
         },
         {
           name: 'Ovomaltine',
-          description: 'Esse dispensa comentários!!!',
+          description: 'A crocância do ovomaltine com a maciez dos nossos brownies = não tinha como dar errado!',
           src: require('../assets/brownie6.jpeg'),
           flex: 3
         },
         {
           name: 'Chocolate com Morango',
-          description: 'Apenas: UAU!',
+          description: 'Apenas uma palavra define nosso brownie de chocolate com morango: UAU! A harmonia é de outro mundo!',
           src: require('../assets/brownie7.jpeg'),
           flex: 3
         },
